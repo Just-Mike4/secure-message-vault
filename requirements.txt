@@ -1,0 +1,7 @@
+Django==5.0.10
+djangorestframework==3.14.0
+djangorestframework-jwt==1.11.0
+djangorestframework-simplejwt==5.3.1
+django-cors-headers==4.5.0
+python-dotenv ==1.0.0
+cryptography==43.0.0
